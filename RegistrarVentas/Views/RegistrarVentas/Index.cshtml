@@ -1,0 +1,36 @@
+﻿@model List<RegistrarVentas.Repositorio.Entidades.Venta>
+
+@{
+    ViewBag.Title = "Registrar Ventas";
+}
+<a href="/registrarventas/Agregar">Agregar Venta</a>
+<table>
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Accion
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente)
+            </td>
+            <td>
+                @Html.ActionLink("Ver", "Detalle", "RegistrarVentas", new { id=item.Id }) |
+                @Html.ActionLink("Eliminar", "Eliminar", "RegistrarVentas", new { id=item.Id })
+            </td>
+        </tr>
+    }
+</table>
+
+

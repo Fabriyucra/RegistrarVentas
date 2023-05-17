@@ -1,0 +1,20 @@
+﻿@model RegistrarVentas.Repositorio.Entidades.Venta
+
+<h1>Agregar Venta</h1>
+
+@using (Html.BeginForm("Agregar", "ResgistrarVentas", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(model => model.Cliente)
+        @Html.TextBoxFor(model => model.Cliente)
+    </div>
+    @if (!string.IsNullOrEmpty(ViewBag.Mensaje))
+    {
+        <div class="alert alert-danger">
+            @ViewBag.Mensaje
+        </div>
+    }
+    <div>
+        <input type="submit" value="Agregar" />
+    </div>
+}

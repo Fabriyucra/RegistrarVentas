@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrarVentas.Web", "RegistrarVentas\RegistrarVentas.Web.csproj", "{5586160C-0370-461A-8FFF-66DF32DE98E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrarVentas.Repositorio", "RegistrarVentas_PW3\RegistrarVentas.Repositorio.csproj", "{15050BE4-1A85-469B-8CD8-A9E4621FCE41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5586160C-0370-461A-8FFF-66DF32DE98E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5586160C-0370-461A-8FFF-66DF32DE98E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5586160C-0370-461A-8FFF-66DF32DE98E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5586160C-0370-461A-8FFF-66DF32DE98E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15050BE4-1A85-469B-8CD8-A9E4621FCE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15050BE4-1A85-469B-8CD8-A9E4621FCE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15050BE4-1A85-469B-8CD8-A9E4621FCE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15050BE4-1A85-469B-8CD8-A9E4621FCE41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3A199F6-6F93-4ED0-898A-2CE2D5594BBB}
+	EndGlobalSection
+EndGlobal

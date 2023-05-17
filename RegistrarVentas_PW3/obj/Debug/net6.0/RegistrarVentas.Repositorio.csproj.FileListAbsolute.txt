@@ -1,0 +1,12 @@
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\bin\Debug\net6.0\RegistrarVentas.Repositorio.deps.json
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\bin\Debug\net6.0\RegistrarVentas.Repositorio.dll
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\bin\Debug\net6.0\RegistrarVentas.Repositorio.pdb
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\obj\Debug\net6.0\RegistrarVentas.Repositorio.csproj.AssemblyReference.cache
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\obj\Debug\net6.0\RegistrarVentas.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\obj\Debug\net6.0\RegistrarVentas.Repositorio.AssemblyInfoInputs.cache
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\obj\Debug\net6.0\RegistrarVentas.Repositorio.AssemblyInfo.cs
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\obj\Debug\net6.0\RegistrarVentas.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\obj\Debug\net6.0\RegistrarVentas.Repositorio.dll
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\obj\Debug\net6.0\refint\RegistrarVentas.Repositorio.dll
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\obj\Debug\net6.0\RegistrarVentas.Repositorio.pdb
+C:\Users\pcfab\Documents\0 - Facultad\practicaweb3\RegistrarVentas\RegistrarVentas_PW3\obj\Debug\net6.0\ref\RegistrarVentas.Repositorio.dll

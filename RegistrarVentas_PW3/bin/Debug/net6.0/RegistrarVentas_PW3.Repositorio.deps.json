@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RegistrarVentas_PW3.Repositorio/1.0.0": {
+        "runtime": {
+          "RegistrarVentas_PW3.Repositorio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistrarVentas_PW3.Repositorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
